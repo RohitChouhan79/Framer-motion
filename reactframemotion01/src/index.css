@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.abcd[data-valuedb=true]{
+    justify-content: end;   
+}
+
+.Main[data-valuedb=true]{
+    background-color: red;
+}
